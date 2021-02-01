@@ -1,0 +1,13 @@
+/home/lvuser/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/lvuser/My data/ASPIRANTURA/article"
+-- The Fortran compiler identification is unknown
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_Fortran_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "FC" or the CMake cache entry CMAKE_Fortran_COMPILER to the full
+  path to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/lvuser/My data/ASPIRANTURA/article/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/lvuser/My data/ASPIRANTURA/article/cmake-build-debug/CMakeFiles/CMakeError.log".
